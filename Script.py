@@ -448,8 +448,7 @@ BOT WORKING PROPERLY"""
 
  படி 2: உங்கள் இணையதளம் மற்றும் API ஐச் சேர்க்கவும்
 
- Exp: /shortlink omegalinks.in 4b392f8eb6ad711fbe58
-
+ Exp: /https://gplinks.in 75c81cd166778683787fda8dbffcdcde0a8602ee
  வீடியோவைச் சேர்க்கவும்
 
  👇 எப்படி சேர்ப்பது 👇
@@ -475,7 +474,7 @@ Hey <a href='tg://settings'>My Friend</a>
 
  Step 2: Add your website and API
 
- Exp: /shortlink omegalinks.in 4b392f8eb6ad711fbe58
+ Exp: /shortlink https://gplinks.in 75c81cd166778683787fda8dbffcdcde0a8602ee
 
  Add a video
 
@@ -502,7 +501,7 @@ Also your tutorial will be Added Your Group..."""
 
  దశ 2: మీ వెబ్‌సైట్ మరియు APIని జోడించండి
 
- గడువు: /shortlink omegalinks.in 4b392f8eb6ad711fbe58
+ గడువు: /shortlink https://gplinks.in 75c81cd166778683787fda8dbffcdcde0a8602ee
 
  వీడియోను జోడించండి
 
@@ -529,7 +528,7 @@ Also your tutorial will be Added Your Group..."""
 
  चरण 2: अपनी वेबसाइट और एपीआई जोड़ें
 
- एक्सप: /शॉर्टलिंक omegalinks.in 4b392f8eb6ad711fbe58
+ एक्सप: /शॉर्टलिंक https://gplinks.in 75c81cd166778683787fda8dbffcdcde0a8602ee
 
  एक वीडियो जोड़ें
 
@@ -556,8 +555,7 @@ Also your tutorial will be Added Your Group..."""
 
  ഘട്ടം 2: നിങ്ങളുടെ വെബ്‌സൈറ്റും API-യും ചേർക്കുക
 
- കാലഹരണപ്പെടൽ: /shortlink omegalinks.in 4b392f8eb6ad711fbe58
-
+ കാലഹരണപ്പെടൽ: /shortlink https://gplinks.in 75c81cd166778683787fda8dbffcdcde0a8602ee
  ഒരു വീഡിയോ ചേർക്കുക
 
  👇 എങ്ങനെ ചേർക്കാം 👇
@@ -583,7 +581,7 @@ Also your tutorial will be Added Your Group..."""
 
  مرحلہ 2: اپنی ویب سائٹ اور API شامل کریں۔
 
- Exp: /shortlink omegalinks.in 4b392f8eb6ad711fbe58
+ Exp: /shortlink https://gplinks.in 75c81cd166778683787fda8dbffcdcde0a8602ee
 
  ایک ویڈیو شامل کریں۔
 
@@ -610,7 +608,7 @@ Also your tutorial will be Added Your Group..."""
 
  પગલું 2: તમારી વેબસાઇટ અને API ઉમેરો
 
- સમાપ્તિ: /shortlink omegalinks.in 4b392f8eb6ad711fbe58
+ સમાપ્તિ: /shortlink https://gplinks.in 75c81cd166778683787fda8dbffcdcde0a8602ee
 
  વિડિઓ ઉમેરો
 
@@ -636,7 +634,7 @@ Also your tutorial will be Added Your Group..."""
 
  ಹಂತ 2: ನಿಮ್ಮ ವೆಬ್‌ಸೈಟ್ ಮತ್ತು API ಸೇರಿಸಿ
 
- ಅವಧಿ: /shortlink omegalinks.in 4b392f8eb6ad711fbe58
+ ಅವಧಿ: /shortlink https://gplinks.in 75c81cd166778683787fda8dbffcdcde0a8602ee
 
  ವೀಡಿಯೊ ಸೇರಿಸಿ
 
