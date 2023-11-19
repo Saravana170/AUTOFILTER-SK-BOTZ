@@ -1,5 +1,5 @@
-# Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit @DP_DEVELOPER_BOTS
+# Subscribe YouTube Channel For Amazing Bot @Dp_Bot_Support
+# Ask Doubt on telegram @mersal_dhinesh
 
 web: python3 bot.py
