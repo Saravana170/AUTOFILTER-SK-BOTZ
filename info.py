@@ -54,7 +54,7 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Others
 VERIFY = bool(environ.get('VERIFY', False))
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'https://gplinks.in')
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'gplinks.in')
 SHORTLINK_API = environ.get('SHORTLINK_API', '75c81cd166778683787fda8dbffcdcde0a8602ee')
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', True))
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '0').split()]
