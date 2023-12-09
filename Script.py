@@ -674,9 +674,9 @@ Also your tutorial will be Added Your Group..."""
     DEVELOPER_TXT = """
 special Thanks To ❤️ Developers -
 
--Dev 1 [Owner of this bot ]<a href='https://t.me/KingVj01'>ⁱᵗᶻ ᵐᵉ ᵗᵍ 🇮🇳</a>
+-Dev 1 [Owner of this bot ]<a href='https://t.me/mersal_dhinesh'>ⁱᵗᶻ ᵐᵉ ᵗᵍ 🇮🇳</a>
 
--Dev 2 <a href='https://t.me/@dpowner_bot'>VJ</a>
+-Dev 2 <a href='https://t.me/@dpowner_bot'>Dp</a>
 
 -Dev 3 <a href='https://t.me/DP_DEVELOPER_BOTS>Jᴏᴇʟ </> TɢX</a>
 
