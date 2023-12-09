@@ -981,7 +981,7 @@ async def shortlink(bot, message):
         return await message.reply(f"You are anonymous admin. Turn off anonymous admin and try again this command")
     chat_type = message.chat.type
     if chat_type == enums.ChatType.PRIVATE:
-        return await message.reply_text(f"<b>Hey {message.from_user.mention}, This command only works on groups !\n\n<u>Follow These Steps to Connect Shortener:</u>\n\n1. Add Me in Your Group with Full Admin Rights\n\n2. After Adding in Grp, Set your Shortener\n\nSend this command in your group\n\n—> /shortlink ""{your_shortener_website_name} {your_shortener_api}\n\n#Sample:-\n/shortlink https://gplinks.in 75c81cd166778683787fda8dbffcdcde0a8602ee\n\nThat's it!!! Enjoy Earning Money 💲\n\n[[[ Trusted Earning Site - https://gplink.in]]]\n\nIf you have any Doubts, Feel Free to Ask me - @mersal_dhinesh\n\n(Puriyala na intha contact la message pannunga - @mersal_dhinesh)</b>")
+        return await message.reply_text(f"<b>Hey {message.from_user.mention}, This command only works on groups !\n\n<u>Follow These Steps to Connect Shortener:</u>\n\n1. Add Me in Your Group with Full Admin Rights\n\n2. After Adding in Grp, Set your Shortener\n\nSend this command in your group\n\n—> /shortlink ""{your_shortener_website_name} {your_shortener_api}\n\n#Sample:-\n/shortlink https://gplinks.in 75c81cd166778683787fda8dbffcdcde0a8602ee\n\nThat's it!!! Enjoy Earning Money 💲\n\n[[[ Trusted Earning Site - https://gplinks.in]]]\n\nIf you have any Doubts, Feel Free to Ask me - @mersal_dhinesh\n\n(Puriyala na intha contact la message pannunga - @mersal_dhinesh)</b>")
     elif chat_type in [enums.ChatType.GROUP, enums.ChatType.SUPERGROUP]:
         grpid = message.chat.id
         title = message.chat.title
