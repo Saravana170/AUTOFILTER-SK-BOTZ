@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://graph.org/file/d57d6f83abb6b8d0efb02.jpg(https://graph.org/file/424372514f77ccf07bb99.jpg)" alt="DP_DEVELOPER_BOTS Logo">
+  <img src="https://graph.org/file/19760bb9d1d29f1c7d527.jpg" alt="DP_DEVELOPER_BOTS Logo">
 </p>
 <h1 align="center">
   AutoFilterDP_bot
