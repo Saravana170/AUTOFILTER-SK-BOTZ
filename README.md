@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://graph.org/file/d57d6f83abb6b8d0efb02.jpg" alt="DP_DEVELOPER_BOTS Logo">
+  <img src="[https://graph.org/file/d57d6f83abb6b8d0efb02.jpg](https://graph.org/file/424372514f77ccf07bb99.jpg)" alt="DP_DEVELOPER_BOTS Logo">
 </p>
 <h1 align="center">
   AutoFilterDP_bot
@@ -52,7 +52,7 @@
 - [x] 𝐴𝑢𝑡𝑜 𝐷𝑒𝑙𝑒𝑡𝑒
 - [x] 𝐴𝑛𝑑 𝑀𝑜𝑟𝑒...
 
-<b>𝑇𝑜 𝑘𝑛𝑜𝑤 𝑎𝑏𝑜𝑢𝑡 𝑎𝑙𝑙 𝑓𝑒𝑎𝑡𝑢𝑟𝑒𝑠, 𝐽𝑜𝑖𝑛 𝑜𝑢𝑟 <a href='https://telegram.dog/vj_botz'>𝑢𝑝𝑑𝑎𝑡𝑒𝑠 𝑐ℎ𝑎𝑛𝑛𝑒𝑙</a>.</b>
+<b>𝑇𝑜 𝑘𝑛𝑜𝑤 𝑎𝑏𝑜𝑢𝑡 𝑎𝑙𝑙 𝑓𝑒𝑎𝑡𝑢𝑟𝑒𝑠, 𝐽𝑜𝑖𝑛 𝑜𝑢𝑟 <a href='https://telegram.dog/DP_DEVELOPER_BOTS'>𝑢𝑝𝑑𝑎𝑡𝑒𝑠 𝑐ℎ𝑎𝑛𝑛𝑒𝑙</a>.</b>
 
 ## 𝐶𝑜𝑚𝑚𝑎𝑛𝑑𝑠
 ```
@@ -150,7 +150,7 @@ Go to https://uptimerobot.com/ and add a monitor to keep your bot alive.
 Use these settings when adding a monitor:</b>
 <br>
 <br>
-<img src="https://telegra.ph/file/a79a156e44f43c9833b50.jpg" alt="render template">
+<img src="https://graph.org/file/424372514f77ccf07bb99.jpg" alt="render template">
 <br>
 <br>
 <b>Click on the below button to deploy directly to render ↓</b>
