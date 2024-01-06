@@ -24,7 +24,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
 Tʜɪs Bᴏᴛ ʜᴀs Lᴀᴛᴇsᴛ ᴀɴᴅ Aᴅᴠᴀɴᴄᴇᴅ Fᴇᴀᴛᴜʀᴇs⚡️
 
-Where is source code? - <a href='https://youtube.com/@alone_boy_edit'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>
+Where is source code? - <a href='https://t.me/DP_BOTZ'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>
 
 
 Developer - <a href='https://t.me/mersal_dhinesh'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
