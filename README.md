@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://graph.org/file/19760bb9d1d29f1c7d527.jpg" alt="DP_DEVELOPER_BOTS Logo">
+  <img src="https://telegra.ph/file/caacc6e6afa9ac6a465fc.jpg" alt="SK_DEVELOPER_BOTS Logo">
 </p>
 <h1 align="center">
   AutoFilterDP_bot
@@ -52,7 +52,7 @@
 - [x] 𝐴𝑢𝑡𝑜 𝐷𝑒𝑙𝑒𝑡𝑒
 - [x] 𝐴𝑛𝑑 𝑀𝑜𝑟𝑒...
 
-<b>𝑇𝑜 𝑘𝑛𝑜𝑤 𝑎𝑏𝑜𝑢𝑡 𝑎𝑙𝑙 𝑓𝑒𝑎𝑡𝑢𝑟𝑒𝑠, 𝐽𝑜𝑖𝑛 𝑜𝑢𝑟 <a href='https://telegram.dog/DP_DEVELOPER_BOTS'>𝑢𝑝𝑑𝑎𝑡𝑒𝑠 𝑐ℎ𝑎𝑛𝑛𝑒𝑙</a>.</b>
+<b>𝑇𝑜 𝑘𝑛𝑜𝑤 𝑎𝑏𝑜𝑢𝑡 𝑎𝑙𝑙 𝑓𝑒𝑎𝑡𝑢𝑟𝑒𝑠, 𝐽𝑜𝑖𝑛 𝑜𝑢𝑟 <a href='https://t.me/saravana_7'>𝑢𝑝𝑑𝑎𝑡𝑒𝑠 𝑐ℎ𝑎𝑛𝑛𝑒𝑙</a>.</b>
 
 ## 𝐶𝑜𝑚𝑚𝑎𝑛𝑑𝑠
 ```
@@ -179,16 +179,16 @@ python3 bot.py
 ## Thanks to 
  - Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram)
  - Thanks To Dp For His Awesome [Media-Search-bot](https://github.com/VJBots)
- - Thanks To [DP_DEVELOPER_BOTS](https://youtube.com/@alone_boy_edit)
+ - Thanks To [SK_DEVELOPER_BOTS](https://youtube.com/@alone_boy_edit)
  - Thanks To LazyDeveloperr for stream feature
  - Thanks To All Everyone In This Journey
 
 ## Note 🏷️
  
-* [![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/DP_DEVELOPER_BOTS)
-* * [![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/mersal_dhinesh)
+* [![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://t.me/saravana_7)
+* * [![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://t.me/saravana_7)
 
-[Note To A So Called Dev](https://telegram.dog/DP_DEVELOPER_BOTS): 
+[Note To A So Called Dev](https://t.me/saravana_7): 
 
 Fork the repo and edit as per your needs.
 
