@@ -1,6 +1,6 @@
-# Don't Remove Credit @DP_DEVELOPER_BOTS
-# Subscribe YouTube Channel For Amazing Bot @Dp_Bot_Support
-# Ask Doubt on telegram @mersal_dhinesh
+# Don't Remove Credit @SK_DEVELOPER_BOTS
+# Subscribe YouTube Channel For Amazing Bot @SK_Bot_Support
+# Ask Doubt on telegram @saravana_7
 
 
 class script(object):
@@ -10,9 +10,9 @@ class script(object):
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>⍟───[ MY ᴅᴇᴛᴀɪʟꜱ ]───⍟
-‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/AutoFilterDP_bot>AutoFilterDP_bot</a>
+‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://https://t.me/Auto_filtersk_bot>Auto_filtersk_bot</a>
  ‣ My best friend : <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a> 
- ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/mersal_dhinesh'>Dhinesh78</a> 
+ ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/saravana_7'>saravana_7</a> 
  ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
  ‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a> 
  ‣ ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
@@ -24,10 +24,10 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
 Tʜɪs Bᴏᴛ ʜᴀs Lᴀᴛᴇsᴛ ᴀɴᴅ Aᴅᴠᴀɴᴄᴇᴅ Fᴇᴀᴛᴜʀᴇs⚡️
 
-Where is source code? - <a href='https://t.me/DP_BOTZ'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>
+Where is source code? - <a href='https://t.me/skmoviebotsᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>
 
 
-Developer - <a href='https://t.me/mersal_dhinesh'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
+Developer - <a href='https://t.me/saravana_7'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
 
 
 
@@ -43,9 +43,9 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 • /del - <code>ᴅᴇʟᴇᴛᴇ ᴀ ꜱᴘᴇᴄɪꜰɪᴄ ꜰɪʟᴛᴇʀ ɪɴ ᴀ ᴄʜᴀᴛ</code>
 • /delall - <code>ᴅᴇʟᴇᴛᴇ ᴛʜᴇ ᴡʜᴏʟᴇ ꜰɪʟᴛᴇʀꜱ ɪɴ ᴀ ᴄʜᴀᴛ (ᴄʜᴀᴛ ᴏᴡɴᴇʀ ᴏɴʟʏ)</code>"""
 
-    # Don't Remove Credit @DP_DEVELOPER_BOTS
-# Subscribe YouTube Channel For Amazing Bot @Dp_Bot_Support
-# Ask Doubt on telegram @mersal_dhinesh
+    # Don't Remove Credit @SK_DEVELOPER_BOTS
+# Subscribe YouTube Channel For Amazing Bot @SK_Bot_Support
+# Ask Doubt on telegram @saravana_7
 
     BUTTON_TXT = """ʜᴇʟᴘ: <b>ʙᴜᴛᴛᴏɴꜱ</b>
 - ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴏᴛʜ ᴜʀʟ ᴀɴᴅ ᴀʟᴇʀᴛ ɪɴʟɪɴᴇ ʙᴜᴛᴛᴏɴꜱ.
@@ -54,7 +54,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/DP_DEVELOPER_BOTS/3)</code>
+<code>[Button Text](buttonurl:https://t.me/SK_DEVELOPER_BOTS/3)</code>
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
 
@@ -80,16 +80,16 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 • /disconnect  - <code>ᴅɪꜱᴄᴏɴɴᴇᴄᴛ ꜰʀᴏᴍ ᴀ ᴄʜᴀᴛ</code>
 • /connections - <code>ʟɪꜱᴛ ᴀʟʟ ʏᴏᴜʀ ᴄᴏɴɴᴇᴄᴛɪᴏɴꜱ</code>"""
 
-    # Don't Remove Credit @DP_DEVELOPER_BOTS
-# Subscribe YouTube Channel For Amazing Bot @Dp_Bot_Support
-# Ask Doubt on telegram @mersal_dhinesh
+    # Don't Remove Credit @SK_DEVELOPER_BOTS
+# Subscribe YouTube Channel For Amazing Bot @Sk_Bot_Support
+# Ask Doubt on telegram @saravana_7
 
     EXTRAMOD_TXT = """ʜᴇʟᴘ: Exᴛʀᴀ Mᴏᴅᴜʟᴇs
 <b>ɴᴏᴛᴇ:</b>
 my features Stay here new features coming soon...  
- <b>✯ Maintained by : <a href=https://t.me/mersal_dhinesh>☢Dp☢</a></b>
+ <b>✯ Maintained by : <a href=https://t.me/saravana_7>☢Sk☢</a></b>
   
- <b>✯ Join here : <a href=https://t.me/DP_DEVELOPER_BOTS>☢Join my updateds☢</a></b> 
+ <b>✯ Join here : <a href=https://t.me/Sk_DEVELOPER_BOTS>☢Join my updateds☢</a></b> 
   
  ./id - <code>ɢᴇᴛ ɪᴅ ᴏꜰ ᴀ ꜱᴘᴇᴄɪꜰɪᴇᴅ ᴜꜱᴇʀ.</ 
  code> 
@@ -444,11 +444,11 @@ BOT WORKING PROPERLY"""
 
  எப்படி மற்றும் என்ன செய்ய வேண்டும்
 
- படி 1: இந்த AUTOFILTER-DP-BOT போட் உங்கள் குழுவை நிர்வாகியாக்குங்கள்
+ படி 1: இந்த AUTOFILTER-SK-BOT போட் உங்கள் குழுவை நிர்வாகியாக்குங்கள்
 
  படி 2: உங்கள் இணையதளம் மற்றும் API ஐச் சேர்க்கவும்
 
- Exp: /shortlink https://gplinks.in 75c81cd166778683787fda8dbffcdcde0a8602ee
+ Exp: /shortlink https://gplinks.in 08654cc46b82ee924fbcd5bcdf802b37482a3ca6
  வீடியோவைச் சேர்க்கவும்
 
  👇 எப்படி சேர்ப்பது 👇
@@ -470,11 +470,11 @@ Hey <a href='tg://settings'>My Friend</a>
 
  How and what to do
 
- Step 1: Administer this AUTOFILTER-DP-BOT bot to your group
+ Step 1: Administer this AUTOFILTER-SK-BOT bot to your group
 
  Step 2: Add your website and API
 
- Exp: /shortlink https://gplinks.in 75c81cd166778683787fda8dbffcdcde0a8602ee
+ Exp: /shortlink https://gplinks.in 08654cc46b82ee924fbcd5bcdf802b37482a3ca6
 
  Add a video
 
@@ -497,11 +497,11 @@ Also your tutorial will be Added Your Group..."""
 
  ఎలా మరియు ఏమి చేయాలి
 
- దశ 1: ఈ AUTOFILTER-DP-BOT బాట్‌ని మీ సమూహానికి నిర్వహించండి
+ దశ 1: ఈ AUTOFILTER-SK-BOT బాట్‌ని మీ సమూహానికి నిర్వహించండి
 
  దశ 2: మీ వెబ్‌సైట్ మరియు APIని జోడించండి
 
- గడువు: /shortlink https://gplinks.in 75c81cd166778683787fda8dbffcdcde0a8602ee
+ గడువు: /shortlink https://gplinks.in 08654cc46b82ee924fbcd5bcdf802b37482a3ca6
 
  వీడియోను జోడించండి
 
@@ -528,7 +528,7 @@ Also your tutorial will be Added Your Group..."""
 
  चरण 2: अपनी वेबसाइट और एपीआई जोड़ें
 
- एक्सप: /शॉर्टलिंक https://gplinks.in 75c81cd166778683787fda8dbffcdcde0a8602ee
+ एक्सप: /शॉर्टलिंक https://gplinks.in 08654cc46b82ee924fbcd5bcdf802b37482a3ca6
 
  एक वीडियो जोड़ें
 
@@ -555,7 +555,7 @@ Also your tutorial will be Added Your Group..."""
 
  ഘട്ടം 2: നിങ്ങളുടെ വെബ്‌സൈറ്റും API-യും ചേർക്കുക
 
- കാലഹരണപ്പെടൽ: /shortlink https://gplinks.in 75c81cd166778683787fda8dbffcdcde0a8602ee
+ കാലഹരണപ്പെടൽ: /shortlink https://gplinks.in 08654cc46b82ee924fbcd5bcdf802b37482a3ca6
  ഒരു വീഡിയോ ചേർക്കുക
 
  👇 എങ്ങനെ ചേർക്കാം 👇
@@ -577,11 +577,11 @@ Also your tutorial will be Added Your Group..."""
 
  کیسے اور کیا کرنا ہے۔
 
- مرحلہ 1: اپنے گروپ میں اس AUTOFILTER-DP-BOT بوٹ کا انتظام کریں۔
+ مرحلہ 1: اپنے گروپ میں اس AUTOFILTER-SK-BOT بوٹ کا انتظام کریں۔
 
  مرحلہ 2: اپنی ویب سائٹ اور API شامل کریں۔
 
- Exp: /shortlink https://gplinks.in 75c81cd166778683787fda8dbffcdcde0a8602ee
+ Exp: /shortlink https://gplinks.in 08654cc46b82ee924fbcd5bcdf802b37482a3ca6
 
  ایک ویڈیو شامل کریں۔
 
@@ -604,11 +604,11 @@ Also your tutorial will be Added Your Group..."""
 
  કેવી રીતે અને શું કરવું
 
- પગલું 1: તમારા જૂથમાં આ AUTOFILTER-DP-BOT બોટનું સંચાલન કરો
+ પગલું 1: તમારા જૂથમાં આ AUTOFILTER-SK-BOT બોટનું સંચાલન કરો
 
  પગલું 2: તમારી વેબસાઇટ અને API ઉમેરો
 
- સમાપ્તિ: /shortlink https://gplinks.in 75c81cd166778683787fda8dbffcdcde0a8602ee
+ સમાપ્તિ: /shortlink https://gplinks.in 08654cc46b82ee924fbcd5bcdf802b37482a3ca6
 
  વિડિઓ ઉમેરો
 
@@ -634,7 +634,7 @@ Also your tutorial will be Added Your Group..."""
 
  ಹಂತ 2: ನಿಮ್ಮ ವೆಬ್‌ಸೈಟ್ ಮತ್ತು API ಸೇರಿಸಿ
 
- ಅವಧಿ: /shortlink https://gplinks.in 75c81cd166778683787fda8dbffcdcde0a8602ee
+ ಅವಧಿ: /shortlink https://gplinks.in 08654cc46b82ee924fbcd5bcdf802b37482a3ca6
 
  ವೀಡಿಯೊ ಸೇರಿಸಿ
 
@@ -656,7 +656,7 @@ Also your tutorial will be Added Your Group..."""
 
  কিভাবে এবং কি করতে হবে
 
- ধাপ 1: আপনার গ্রুপে এই AutoFilterDP_bot বট পরিচালনা করুন
+ ধাপ 1: আপনার গ্রুপে এই AutoFilter_SK_bot বট পরিচালনা করুন
 
  ধাপ 2: আপনার ওয়েবসাইট এবং API যোগ করুন
 
@@ -674,19 +674,19 @@ Also your tutorial will be Added Your Group..."""
     DEVELOPER_TXT = """
 special Thanks To ❤️ Developers -
 
--Dev 1 [Owner of this bot ]<a href='https://t.me/mersal_dhinesh'>ⁱᵗᶻ ᵐᵉ ᵗᵍ 🇮🇳</a>
+-Dev 1 [Owner of this bot ]<a href='https://t.me/saravana_7'>ⁱᵗᶻ ᵐᵉ ᵗᵍ 🇮🇳</a>
 
--Dev 2 <a href='https://t.me/@dpowner_bot'>Dp</a>
+-Dev 2 <a href='https://t.me/@skowner_bot'>Dp</a>
 
--Dev 3 <a href='https://t.me/DP_DEVELOPER_BOTS>Jᴏᴇʟ </> TɢX</a>
+-Dev 3 <a href='https://t.me/SK_DEVELOPER_BOTS>Jᴏᴇʟ </> TɢX</a>
 
-- Dev 4 <a href='https://t.me/Dp_Bot_Support'>TEAM VJ</a>
+- Dev 4 <a href='https://t.me/Sk_Bot_Support'>TEAM VJ</a>
 """
 
 
-# Don't Remove Credit @DP_DEVELOPER_BOTS
-# Subscribe YouTube Channel For Amazing Bot @Dp_Bot_Support
-# Ask Doubt on telegram @mersal_dhinesh
+# Don't Remove Credit @SK_DEVELOPER_BOTS
+# Subscribe YouTube Channel For Amazing Bot @SK_Bot_Support
+# Ask Doubt on telegram @saravna_7
 
 
     
