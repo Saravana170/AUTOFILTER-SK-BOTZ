@@ -178,8 +178,8 @@ python3 bot.py
 
 ## Thanks to 
  - Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram)
- - Thanks To Dp For His Awesome [Media-Search-bot](https://github.com/VJBots)
- - Thanks To [SK_DEVELOPER_BOTS](https://youtube.com/@alone_boy_edit)
+ - Thanks To SK For His Awesome [Media-Search-bot](https://github.com/VJBots)
+ - Thanks To [SK_DEVELOPER_BOTS](https://youtube.com/@tamilcinestars?si=7YRJd_PW90CTDCVQ)
  - Thanks To LazyDeveloperr for stream feature
  - Thanks To All Everyone In This Journey
 
